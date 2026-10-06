@@ -4,6 +4,8 @@ Burger Rush is a fun and fast-paced browser game where players build the perfect
 
 🔗 Play the Game: https://burger-rush-1.ai.studio/
 
+
+
 🎮 About the Game
 
 Burger Rush is a simple-to-learn arcade-style game designed for quick and engaging gameplay.
